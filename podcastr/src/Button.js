@@ -1,17 +1,5 @@
-import Button from "./Button";
-
-function App(){
-  return(
-    <div>
-      <>
-        <Button />
-        <Button />
-        <Button />
-        <Button />
-        <Button />
-      </>
-    </div>
+export default function Button(){
+  return (
+    <button>Click me</button>
   );
 }
-
-export

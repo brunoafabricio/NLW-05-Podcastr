@@ -37,7 +37,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/brunoafabricio/NLW-5-ReactJS && cd NLW-5-ReactJS
+$ git clone https://github.com/brunoafabricio/NLW-5-ReactJS && cd NLW-5-ReactJS/podcastrnext
 ```
 
 Follow the steps below
